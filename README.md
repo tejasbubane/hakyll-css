@@ -2,7 +2,7 @@
 
 `Drop-in` CSS for code highlighting in [Hakyll](https://jaspervdj.be/hakyll/).
 Extracted from `pandoc` (`skylighting`) thanks to
-[this blog](http://fixpt.de/blog/2017-12-03-hakyll-highlighting-themes.html)
+[this blog](http://fixpt.de/blog/2017-12-03-hakyll-highlighting-themes.html).
 
 #### Long story
 
@@ -23,3 +23,39 @@ available themes! :tada:
 ## Usage
 
 Look at the screenshots below, pick up [css file](/css) for the one you like and drop into your css.
+
+## Screenshots
+
+Here's how they look:
+
+1. **breezeDark**
+
+    ![breezeDark theme screenshot](/screenshots/breezeDark.png)
+
+1. **espresso**
+
+    ![espresso theme screenshot](/screenshots/espresso.png)
+
+1. **haddock**
+
+    ![haddock theme screenshot](/screenshots/haddock.png)
+
+1. **kate**
+
+    ![kate theme screenshot](/screenshots/kate.png)
+
+1. **monochrome**
+
+    ![monochrome theme screenshot](/screenshots/monochrome.png)
+
+1. **pygments**
+
+    ![pygments theme screenshot](/screenshots/pygments.png)
+
+1. **tango**
+
+    ![tango theme screenshot](/screenshots/tango.png)
+
+1. **zenburn**
+
+    ![zenburn theme screenshot](/screenshots/zenburn.png)
